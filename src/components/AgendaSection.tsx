@@ -9,55 +9,55 @@ export const AgendaSection: React.FC = () => {
       number: "1",
       title: "Welcome & Registration",
       category: "IVF Societies",
-      description: "Check-in, networking refreshments, and event orientation. Collect your delegate kit with exclusive resources."
+      description: "Begin your journey with a warm welcome, registration, and networking over refreshments. Receive your delegate kit packed with exclusive resources."
     },
     {
-      time: "2:00 PM",
+      time: "2:15 PM",
       duration: "15 min",
-      number: "1",
-      title: "Welcome & Registration",
+      number: "2",
+      title: "Pregatips Introduction + Keynote on Future of Women’s Healthcare",
       category: "IVF Societies",
-      description: "Introduction to Ambixous × Pregatips ecosystem and vision. Set the stage for innovation, research collaboration, and thought leadership in women's health."
+      description: "Discover the Ambixous × Pregatips ecosystem and vision. Gain insights into the future of women’s healthcare through an inspiring keynote."
     },
     {
-      time: "2:00 PM",
-      duration: "15 min",
-      number: "1",
-      title: "Welcome & Registration",
+      time: "2:30 PM",
+      duration: "60 min",
+      number: "3",
+      title: "Panel Discussion – Bridging Research, Practice & Innovation in Gynaecology",
       category: "IVF Societies",
-      description: "Leading gynaecologists, researchers, and innovators discuss translating clinical insights into practice. Q&A with the expert panel."
+      description: "Engage with leading experts as they discuss integrating research, clinical practice, and innovation in gynaecology. Participate in a dynamic Q&A session."
     },
     {
-      time: "2:00 PM",
-      duration: "15 min",
-      number: "1",
-      title: "Welcome & Registration",
+      time: "3:30 PM",
+      duration: "30 min",
+      number: "4",
+      title: "Research Papers / Case Studies (2–3 Presentations)",
       category: "IVF Societies",
-      description: "Check-in, networking refreshments, and event orientation. Collect your delegate kit with exclusive resources."
+      description: "Explore breakthrough research and case studies in gynaecology, fertility treatments, and maternal health innovations."
     },
     {
-      time: "2:00 PM",
-      duration: "15 min",
-      number: "1",
-      title: "Welcome & Registration",
+      time: "4:00 PM",
+      duration: "30 min",
+      number: "5",
+      title: "Product & Service Showcases (Femtech, IVF Diagnostics, Digital Health)",
       category: "IVF Societies",
-      description: "2–3 presentations showcasing breakthrough research in gynaecology, fertility treatments, and maternal health innovations."
+      description: "Experience live demonstrations and presentations of cutting-edge products and services in femtech, IVF diagnostics, and digital health."
     },
     {
-      time: "2:00 PM",
-      duration: "15 min",
-      number: "1",
-      title: "Welcome & Registration",
+      time: "4:30 PM",
+      duration: "30 min",
+      number: "6",
+      title: "Progressive Hospital Awards + Group Photo",
       category: "IVF Societies",
-      description: "Recognition of excellence in women's healthcare delivery, innovation adoption, and patient‑centered care. Group photo session."
+      description: "Celebrate excellence in women’s healthcare with awards for innovation and patient-centered care, followed by a group photo session."
     },
     {
-      time: "2:00 PM",
-      duration: "15 min",
-      number: "1",
-      title: "Welcome & Registration",
+      time: "5:00 PM",
+      duration: "120 min",
+      number: "7",
+      title: "Networking & Closing",
       category: "IVF Societies",
-      description: "Extended networking with refreshments. Hands‑on demos, one‑on‑one conversations with innovators, and peer collaboration opportunities."
+      description: "Conclude the event with extended networking, hands-on demos, and opportunities for one-on-one conversations with innovators and peers."
     }
   ];
 
@@ -69,7 +69,7 @@ export const AgendaSection: React.FC = () => {
             Forum Agenda
           </h2>
           <p className="text-slate-600 text-base font-normal mt-2 max-md:max-w-full">
-           A carefully structured 5‑hour experience balancing education, innovation, and meaningful connections.
+            A carefully structured 5‑hour experience balancing education, innovation, and meaningful connections.
           </p>
         </div>
         <div className="w-full mt-[60px] px-20 max-md:max-w-full max-md:mt-10 max-md:px-5">

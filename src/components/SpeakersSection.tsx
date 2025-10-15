@@ -18,7 +18,7 @@ const speakerImages = [speaker1, speaker2, speaker3, speaker4];
 
 export const SpeakersSection: React.FC = () => {
   const speakers = [
-    { name: "Dr. Priya Sharma", title: "Head of Fetal Medicine, Apollo Hospitals" },
+    { name: "Dr. (Prof) Shweta Mittal Gupta", title: "Co-Director & Unit Head, Centre of IVF & Human Reproduction, Sir Ganga Ram Hospital" },
     { name: "Dr. Rohan Gupta", title: "IVF Specialist, Cloudnine Hospital" },
     { name: "Dr. Meena Iyer", title: "OB-GYN, Fortis Healthcare" },
     { name: "Dr. Alok Verma", title: "Maternal Health Expert, AIIMS Delhi" },
